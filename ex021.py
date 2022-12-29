@@ -1,3 +1,5 @@
-import playsound
-caminho = input('Digite o caminho do áudio a ser executado: ')
-playsound.playsound(caminho)
+import playback
+pygame.init()
+pygame.mixer.music.load('ex021.mp3')
+pygame.mixer.music.play()
+pygame.event.wait()
