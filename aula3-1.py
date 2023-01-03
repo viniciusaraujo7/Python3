@@ -1,0 +1,6 @@
+print('Este é meu começo no mundo da programação, abaixo segue minha primeira aula prática')
+nome=input('Qual seu nome?')
+idade=input('Qual é sua idade?')
+peso=input('Qual seu peso?')
+print('Olá',nome,'! Prazer em te conhecer !','Sua idade é',idade,'anos de idade','e seu peso é',peso,'kg')
+print('This is mt first day in dev world, in soon I will being a amazing professional dev')
